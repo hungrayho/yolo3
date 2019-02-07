@@ -9,4 +9,5 @@ https://github.com/drainingsun/boobs
 
 ## Examples
 
-![alt text](http://https://github.com/hungrayho/yolo3/blob/master/example1.png?raw=True)
+![alt text](https://i.imgur.com/VDNWiqV.png)
+![alt text](https://i.imgur.com/r5zBWuV.png)
