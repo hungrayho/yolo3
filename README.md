@@ -9,4 +9,4 @@ https://github.com/drainingsun/boobs
 
 ## Examples
 
-![](http://https://github.com/hungrayho/yolo3/blob/master/example1.png)
+![alt text](http://https://github.com/hungrayho/yolo3/blob/master/example1.png)
