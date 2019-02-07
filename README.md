@@ -1,5 +1,11 @@
 # yolo3
 
+1. extract frames from sample video
+2. label bounding boxes using boobs.json
+3. augment image set with imgaug -- at least 2000 images
+4. train yolo3 model 
+5. run test video through model
+
 ## Prerequisites
 https://github.com/qqwweee/keras-yolo3
 
