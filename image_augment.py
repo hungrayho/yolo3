@@ -114,3 +114,4 @@ for i in range(0, img_count_init):
 
 with open('coco_new.json', 'w') as outfile:
     json.dump(data, outfile)
+ 
